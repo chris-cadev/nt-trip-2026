@@ -1,0 +1,9 @@
+services:
+  docs:
+    image: node:20-alpine
+    working_dir: /app
+    volumes:
+      - ./:/app:ro
+    ports:
+      - "${PORT:-3000}:3000"
+    command: sh -c "npm i -g --ignore-scripts docsify-cli >/dev/null 2>&1; docsify serve docs -p 3000 --host 0.0.0.0"

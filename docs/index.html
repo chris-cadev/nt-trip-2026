@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NT Trip 2026</title>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+</head>
+<body>
+  <div id="app">Cargando...</div>
+  <script>
+    window.$docsify = {
+      name: 'NT Trip 2026',
+      loadSidebar: '_sidebar.md',
+      subMaxLevel: 2,
+      markdown: {
+        // Slugs estilo GitHub (doble guion) para que las anclas de ROLES.md funcionen.
+        renderer: {
+          heading: function (text, level, raw) {
+            // slug-fn-start
+            var slug = raw.toLowerCase().replace(/[^\p{L}\p{N}\- _]/gu, '').replace(/ /g, '-');
+            // slug-fn-end
+            return '<h' + level + ' id="' + slug + '">' + text + '</h' + level + '>\n';
+          }
+        }
+      }
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+</body>
+</html>
