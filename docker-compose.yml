@@ -6,4 +6,5 @@ services:
       - ./:/app:ro
     ports:
       - "${PORT:-3000}:3000"
+      - "35729:35729"
     command: sh -c "npm i -g --ignore-scripts docsify-cli >/dev/null 2>&1; docsify serve docs -p 3000 --host 0.0.0.0"
