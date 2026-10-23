@@ -1,1 +1,0 @@
-../openspec/changes/organizar-roles-nt/specs/viaje/roles/spec.md

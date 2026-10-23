@@ -1,1 +1,0 @@
-../openspec/changes/organizar-roles-nt/proposal.md
