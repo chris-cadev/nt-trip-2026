@@ -1,59 +1,58 @@
-# Ruleta NT — juegos para decidir a la suerte
+# Juegos para decidir a la suerte
 
-Ver tambien: [ROLES.md](./ROLES.md) (quien opera cada sorteo) e [indice](./README.md).
+Ver tambien: [indice](./README.md), [cierre](./CIERRE.md) y [director](./DIRECTOR.md).
 
-Principio: a suerte solo va quien/que/cuando chico. Dinero, reglas NT y seguridad se deciden deliberadamente.
+Principio: a la suerte solo van cosas chicas (que, quien, cuando). Dinero, reglas y seguridad se hablan y se escriben, nunca se rifan.
 
 ## Catalogo (7 juegos)
 
 ### Volado
-- Jugadores: 1 vs 1 o grupo contra moneda. Material: moneda. Tiempo: 1 min.
-- Mejor uso: binarias chicas (salimos 7 u 8am, tacos o mariscos hoy).
-- Lo gira el tesorero; un volado, sin reintentos.
+
+- 1 min, una moneda. 1 contra 1, o todo el grupo contra la moneda.
+- Para decidir entre 2 cosas chicas (esto o aquello). Se avienta una vez, sin repetir.
 
 ### Piedra-papel-tijera (PPT)
-- Jugadores: 2 (torneo de 5 en 10 min). Material: ninguno. Tiempo: 5-10 min.
-- Mejor uso: desempates y finalistas (2 destinos empatados, cama buena).
-- Desempate: best-of-3.
+
+- Sin material. Duelo de 2 (torneo de hasta 5 personas en 10 min).
+- Para desempatar entre 2 finalistas: gana 2 de 3.
 
 ### Canicas
-- Jugadores: 2-9. Material: canicas + suelo/piso parejo. Tiempo: 20-30 min.
-- Mejor uso: decisiones con show y publico (orden para elegir cuarto, orden de turnos).
-- Por puntos; gana el mayor puntaje.
+
+- De 2 a 9 jugadores, 20-30 min. Canicas y suelo parejo.
+- Para decidir orden o turnos cuando hay publico; gana quien haga mas puntos.
 
 ### Rayuela
-- Jugadores: 1 por turno, todos participan. Material: tiza/piedra + suelo. Tiempo: 20-30 min.
-- Mejor uso: momento NT con parejas mirando (quien elige primero que visitar manana).
-- Si no hay suelo apto, se sustituye por canicas.
+
+- Todos participan por turnos, 20-30 min. Tiza o piedra y suelo.
+- Para decidir quien elige primero; si no hay donde pintarla, se juega canicas.
 
 ### Poker de juguete
-- Jugadores: 3-9. Material: baraja + fichas. Tiempo: 30-45 min.
-- Mejor uso: repartos (turnos de lavar platos, elegir musica, favores).
-- **Fichas = favores/turnos, NUNCA dinero real.** Proponer dinero real se rechaza.
+
+- Mesa de 3 a 9, 30-45 min. Baraja y fichas.
+- Reparte turnos y favores (quien lava platos, quien pone musica); **fichas = favores, NUNCA dinero real.**
 
 ### Tictactoe-torneo
-- Jugadores: torneo de 5 (semis + final). Material: papel/pluma. Tiempo: 10-15 min.
-- Mejor uso: decisiones chicas con comedia (quien pide la ronda, quien cuenta el chiste).
-- Sorteo de llaves del torneo con volado.
+
+- Llaves de 5 (semis y final), 10-15 min. Papel y pluma.
+- Para decisiones chistosas (quien pide la ronda); las llaves se rifan con volado.
 
 ### Ruleta
-- Jugadores: 1 de N (5 destinos, 4 candidatos a joker). Material: botella/app gratuita/papelitos. Tiempo: 5 min.
-- Mejor uso: 1-de-N grande (destino filtrado, quien maneja = turismo, director joker).
-- Un giro a ciegas, sin reintentos, resultado se acata.
+
+- Para elegir entre varias opciones, 5 min. Botella, app o papelitos.
+- Solo para lo grande que ya paso el filtro; se gira una vez a ciegas y se respeta.
 
 ## Tabla decision -> juego
 
-- Binaria (si/no, playa/bosque, 7 u 8am) -> volado o PPT.
-- 1 de N (destino, quien maneja, director) -> ruleta; con publico y tiempo: canicas o rayuela.
-- Reparto (cuartos, turnos, cuentas chicas) -> poker de juguete o canicas por puntos.
-- Desempate (2 finalistas) -> PPT best-of-3 o volado del tesorero.
-- Ejemplo NT: 5 destinos propuestos (uno por NT) filtrados -> ruleta, un giro.
+- Entre 2 (si/no, esto/aquello) -> volado o PPT.
+- Entre varias -> ruleta; con publico y tiempo: canicas o rayuela.
+- Repartir (turnos, favores, orden) -> poker de juguete o canicas por puntos.
+- Desempate (2 finalistas) -> PPT a ganar 2 de 3, o volado.
 
 ## Reglas
 
-- NUNCA a suerte: tope por persona, fondo comun, reglas NT, seguridad, botiquin. Eso lo decide el grupo por escrito con el tesorero.
-- Filtros antes de todo 1-de-N: tope de presupuesto, fechas posibles, clima/temporada y veto (cada NT veta 1 opcion sin explicar). Solo finalistas entran.
-- Si el veto deja <2 finalistas: se re-propone o se vota deliberadamente con director desempatando.
-- Operador neutral: sortea quien NO participa. Ulises gira manejo/turismo y director ([Tesorero en ROLES.md](./ROLES.md#tesorero--ulises-fijo)). Sorteo operado por interesado = invalido, se repite.
-- Registro: cada resultado se publica en el grupo con fecha, juego usado y ganador.
-- Juego nuevo (dados, loteria, etc.): no se usa hasta tener ficha completa aprobada por los 5.
+- La suerte NO decide dinero, reglas ni seguridad. Eso se habla entre todos y queda por escrito.
+- Antes de rifar entre varias opciones, primero se filtra: se revisa presupuesto, fechas y temporada, y cada quien batea 1 opcion sin dar explicaciones. Solo lo que pase el filtro entra a la rifa.
+- Si el bateo deja menos de 2 opciones, se proponen otras o se vota, y alguien desempata. Como desempatar en [director](./DIRECTOR.md).
+- El que rifa no juega. Si rifa alguien que si participa, no vale y se repite.
+- Cada resultado se anota en el grupo: fecha, que juego se uso y quien gano.
+- Juego nuevo (dados, loteria, etc.): no se usa hasta que el grupo apruebe como se juega.
