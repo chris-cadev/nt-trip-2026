@@ -89,8 +89,8 @@ function voluntariar() {
   const real = nombreReal(volNombre.value)
   const msg = puedeAsignar(volRol.value, real)
   if (msg !== '') {
+    volMsg.value = msg
     if (!esReglaDura(volRol.value, real)) {
-      volMsg.value = msg
       return
     }
     if (!window.confirm(msg + ' Darlo de todos modos por decision humana?')) return
