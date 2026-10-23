@@ -1,0 +1,18 @@
+{
+  "name": "slides",
+  "version": "1.0.0",
+  "description": "Presentacion de 10 minutos para un viernes por la tarde. Fuente en `presentacion.md` (Marp). Tema en `tema.css`. Archivos listos en `export/`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@slidev/cli": "^53.0.0",
+    "@slidev/theme-default": "^0.25.0",
+    "playwright-chromium": "^1.64.1"
+  }
+}
